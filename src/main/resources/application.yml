@@ -1,0 +1,10 @@
+server:
+  port: 7788
+spring:
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://81.68.99.42:3306/z_boss?characterEncoding=utf-8&serverTimezone=GMT%2B8
+    username: admin
+    password: admin
+
