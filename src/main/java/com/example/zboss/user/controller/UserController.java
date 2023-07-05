@@ -1,9 +1,7 @@
-package com.example.z_boss.user.controller;
+package com.example.zboss.user.controller;
 
-import com.example.z_boss.user.entity.User;
-import com.example.z_boss.user.service.UserService;
-import lombok.extern.slf4j.Slf4j;
-import org.springframework.stereotype.Controller;
+import com.example.zboss.user.entity.User;
+import com.example.zboss.user.service.UserService;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;

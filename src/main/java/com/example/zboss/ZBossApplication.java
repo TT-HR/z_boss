@@ -1,4 +1,4 @@
-package com.example.z_boss;
+package com.example.zboss;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

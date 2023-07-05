@@ -1,4 +1,4 @@
-package com.example.z_boss.config;
+package com.example.zboss.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Qualifier;
